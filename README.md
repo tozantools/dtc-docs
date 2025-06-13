@@ -8,6 +8,7 @@
 
 ## 目次
 
+- [au Starlink Direct 山行実利用レポート](field-experience.md) - 2025年5月以降の山行での実利用検証結果
 - [AndroidでのDTC（au Starlink Direct）利用における現状の課題・問題点](current-issues.md) - Android 15以降で確認された課題とその対処法
 
 ## スコープ
